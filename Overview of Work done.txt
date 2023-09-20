@@ -1,0 +1,5 @@
+1). Successfully curated and transformed unstructured datasets into a refined and analytically-ready format, enhancing data quality and accessibility for analysis.
+
+2). Demonstrated strong analytical skills by identifying and merging relevant datasets, aligning with client specifications, and constructing comprehensive data models.
+
+3). Leveraged data visualization techniques and dashboard creation to facilitate in-depth data exploration and uncover actionable insights, culminating in the development of persuasive PowerPoint presentations to effectively communicate findings and recommendations tailored to client needs.
